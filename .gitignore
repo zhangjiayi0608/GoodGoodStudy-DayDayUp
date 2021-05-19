@@ -29,3 +29,5 @@ hs_err_pid*
 .classpath
 .project
 .DS_Store
+.idea/*
+idea*
